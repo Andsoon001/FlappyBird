@@ -1,9 +1,9 @@
 ## Flappy bird
-an interesting game by html and flask
+an interesting game by html、js、css
 
 ## How to use
-- just download the html and py files in the same dir
-- click to the html
+- just download the three files in the same dir
+- click to the index.html
 - begin to play
 
 ## game rules
