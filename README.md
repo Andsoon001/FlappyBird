@@ -3,6 +3,12 @@ an interesting game by html、js、css
 
 Demo：https://andsoon001.github.io/flappyBird/
 
+The Demo has a bug due to not match the UI.
+
+But it performs perfectly on the local device such as google、edge、firefox(no attribute to github)
+
+If you can sovle it,please contact me,thanks sinecerely!
+
 ## How to use
 - just download the three files in the same dir
 - click to the index.html
