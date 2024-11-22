@@ -9,7 +9,7 @@ But it performs perfectly on the local device such as google、edge、firefox(no
 
 If you can sovle it,please contact me,thanks sinecerely!
 
-## How to use
+## How to use (if you do not want to use the demo that has the bug now)
 - just download the three files in the same dir
 - click to the index.html
 - begin to play
