@@ -1,5 +1,6 @@
 ## Flappy bird
 an interesting game by html、js、css
+Demo：https://andsoon001.github.io/flappyBird/
 
 ## How to use
 - just download the three files in the same dir
